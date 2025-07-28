@@ -5,7 +5,7 @@
 - 🌱 I’m learning **Kubernetes, Jenkins, and AWS CI/CD Pipelines**  
 - 👯 I’m open to collaborate on **DevOps or Python automation projects**  
 - 💬 Ask me about **Docker, Flask, Streamlit, or Shell scripting**  
-- 📫 How to reach me: **your_email@example.com**  
+- 📫 How to reach me: **rahulcarpenter486@gmail.com**  
 - ⚡ Fun fact: I love building useful tools for real-world problems  
 
 ---
