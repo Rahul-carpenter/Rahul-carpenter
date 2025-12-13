@@ -32,10 +32,10 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [EduCall Manager](https://github.com/Rj123/educall-manager) | Flask-based CRM for education agents | Flask, MySQL, Docker |
-| [Lottery Probability Calculator](https://github.com/Rj123/lottery-calculator) | Calculates winning probabilities using math | Python, Streamlit |
-| [Blinkit Sales Analysis](https://github.com/Rj123/blinkit-powerbi) | Power BI dashboards for sales data | Power BI, Excel |
-| [Feature-Controlled Assistant](https://github.com/Rj123/ai-voice-assistant) | Voice-activated assistant with AWS & OpenCV | Python, AWS |
+| [EduCall Manager](https://educall-manager.onrender.com/) | Flask-based CRM for education agents | Flask, MySQL, Docker |
+| [Lottery Probability Calculator](https://lottery-game-9mkkhteuxunjjgzp8sdyrt.streamlit.app/) | Calculates winning probabilities using math | Python, Streamlit |
+| [Blinkit Sales Analysis](https://github.com/Rahul-carpenter/Blinkit-Sales-Analysis) | Power BI dashboards for sales data | Power BI, Excel |
+| [Feature-Controlled Assistant](https://github.com/Rahul-carpenter/aws-assistant) | Voice-activated assistant with AWS & OpenCV | Python, AWS |
 
 ---
 
