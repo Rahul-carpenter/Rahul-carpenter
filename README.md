@@ -32,12 +32,9 @@ I prefer learning by doing — breaking things, fixing them, and improving them.
 ---
 
 ## 📊 GitHub Stats
-
-> If stats don’t load instantly, wait 10–30 minutes and refresh.
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul-carpenter&show_icons=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahul-carpenter)
+
 
 ---
 
