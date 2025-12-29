@@ -1,47 +1,65 @@
-<h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">🚀 Tech Enthusiast | DevOps Learner | Python & Cloud Explorer</h3>
+<h1 align="center">Hi 👋, I'm Rahul</h1> <h3 align="center">DevOps & Backend Learner | Building real-world systems step by step 🚀</h3>
+👋 About Me
 
-- 🔭 I’m currently working on **EduCall Manager**, a student lead management platform  
-- 🌱 I’m learning **Kubernetes, Jenkins, and AWS CI/CD Pipelines**  
-- 👯 I’m open to collaborate on **DevOps or Python automation projects**  
-- 💬 Ask me about **Docker, Flask, Streamlit, or Shell scripting**  
-- 📫 How to reach me: **rahulcarpenter486@gmail.com**  
-- ⚡ Fun fact: I love building useful tools for real-world problems  
+I’m a hands-on learner who enjoys building and breaking systems to understand how they work in real life.
+My interest lies in DevOps, backend development, and cloud technologies, where I focus on automation, deployment, and scalability.
 
----
+I believe in learning by doing — that’s why most of my time goes into building practical projects instead of just following tutorials.
 
-### 🛠️ Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+🔭 Currently working on EduCall Manager – a real-world student lead management system
 
----
+🌱 Learning Docker, Kubernetes, Jenkins, and AWS CI/CD workflows
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-carpenter&show_icons=true&theme=radical" alt="Rahul's github stats" width="48%"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-carpenter&theme=radical" alt="GitHub Streak" width="48%"/>
-</p>
+🤝 Open to collaboration on DevOps, backend, or Python automation projects
 
----
+💬 Ask me about Flask, Docker, Streamlit, Linux, or Shell scripting
 
-### 🚀 My Projects
+📫 Reach me at: rahulcarpenter486@gmail.com
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [EduCall Manager](https://educall-manager.onrender.com/) | Flask-based CRM for education agents | Flask, MySQL, Docker |
-| [Lottery Probability Calculator](https://lottery-game-9mkkhteuxunjjgzp8sdyrt.streamlit.app/) | Calculates winning probabilities using math | Python, Streamlit |
-| [Blinkit Sales Analysis](https://github.com/Rahul-carpenter/Blinkit-Sales-Analysis) | Power BI dashboards for sales data | Power BI, Excel |
-| [Feature-Controlled Assistant](https://github.com/Rahul-carpenter/aws-assistant) | Voice-activated assistant with AWS & OpenCV | Python, AWS |
+⚡ Fun fact: I enjoy simplifying complex technical concepts for others
 
----
+🛠️ Skills & Tools
 
-### 🔗 Connect with Me
+Technologies I use while building and deploying applications:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
 
----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rahul-carpenter&show_icons=true&theme=radical" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-carpenter&theme=radical" width="48%"/> </p>
+🚀 Featured Projects
+
+Projects that showcase my practical learning and problem-solving approach:
+
+Project	Description	Tech Stack
+EduCall Manager	Role-based student lead management system for education agencies	Flask, MySQL, Docker
+Lottery Probability Calculator	Mathematical probability calculator with interactive UI	Python, Streamlit
+Blinkit Sales Analysis	Sales insights & dashboards for business analysis	Power BI, Excel
+Feature-Controlled Assistant	Voice-controlled assistant with cloud & computer vision features	Python, AWS, OpenCV
+🎯 What I’m Focusing On Next
+
+Building CI/CD pipelines using Jenkins
+
+Deploying containerized apps on AWS
+
+Learning Terraform & Infrastructure as Code
+
+Improving system design & monitoring basics
+
+🔗 Connect With Me
+
+Let’s connect and grow together:
+
+
