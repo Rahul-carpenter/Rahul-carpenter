@@ -1,65 +1,72 @@
-<h1 align="center">Hi 👋, I'm Rahul</h1> <h3 align="center">DevOps & Backend Learner | Building real-world systems step by step 🚀</h3>
-👋 About Me
+# Hi 👋 I’m Rahul
 
-I’m a hands-on learner who enjoys building and breaking systems to understand how they work in real life.
-My interest lies in DevOps, backend development, and cloud technologies, where I focus on automation, deployment, and scalability.
+**DevOps & Backend Learner | Building real-world systems step by step 🚀**
 
-I believe in learning by doing — that’s why most of my time goes into building practical projects instead of just following tutorials.
+---
 
-🔭 Currently working on EduCall Manager – a real-world student lead management system
+## 👨‍💻 About Me
 
-🌱 Learning Docker, Kubernetes, Jenkins, and AWS CI/CD workflows
+I’m a hands-on learner who enjoys building practical projects to understand how real systems work.  
+My main focus is **DevOps, backend development, and cloud technologies**, where I explore automation, deployment, and scalability.
 
-🤝 Open to collaboration on DevOps, backend, or Python automation projects
+I prefer learning by doing — breaking things, fixing them, and improving them.
 
-💬 Ask me about Flask, Docker, Streamlit, Linux, or Shell scripting
+- 🔭 Currently working on **EduCall Manager** – a student lead management system  
+- 🌱 Learning **Docker, Kubernetes, Jenkins, and AWS CI/CD**  
+- 🤝 Open to collaborating on **DevOps, backend, or Python automation projects**  
+- 💬 Ask me about **Flask, Docker, Streamlit, Linux, Shell scripting**  
+- 📫 Reach me at: **rahulcarpenter486@gmail.com**  
+- ⚡ Fun fact: I enjoy simplifying complex tech topics  
 
-📫 Reach me at: rahulcarpenter486@gmail.com
+---
 
-⚡ Fun fact: I enjoy simplifying complex technical concepts for others
+## 🛠️ Skills & Tools
 
-🛠️ Skills & Tools
+- **Languages:** Python, Shell Script  
+- **Backend:** Flask  
+- **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions  
+- **Cloud:** AWS (EC2, basic CI/CD)  
+- **Database:** MySQL  
+- **OS:** Linux  
 
-Technologies I use while building and deploying applications:
+---
 
+## 📊 GitHub Stats
 
+> If stats don’t load instantly, wait 10–30 minutes and refresh.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul-carpenter&show_icons=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahul-carpenter)
 
+---
 
+## 🚀 Projects
 
+| Project | Description | Tech |
+|--------|-------------|------|
+| **EduCall Manager** | Student lead management system with role-based access | Flask, MySQL, Docker |
+| **Lottery Probability Calculator** | Calculates winning probability using math | Python, Streamlit |
+| **Blinkit Sales Analysis** | Business sales analysis dashboards | Power BI, Excel |
+| **Feature-Controlled Assistant** | Voice-controlled assistant with cloud integration | Python, AWS |
 
+---
 
+## 🎯 What I’m Learning Next
 
+- Jenkins CI/CD pipelines  
+- AWS deployments  
+- Terraform basics  
+- Monitoring & logging fundamentals  
 
+---
 
+## 🤝 Connect With Me
 
+- **LinkedIn:** https://www.linkedin.com/in/your-profile/  
+- **Email:** rahulcarpenter486@gmail.com  
 
+---
 
-
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rahul-carpenter&show_icons=true&theme=radical" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-carpenter&theme=radical" width="48%"/> </p>
-🚀 Featured Projects
-
-Projects that showcase my practical learning and problem-solving approach:
-
-Project	Description	Tech Stack
-EduCall Manager	Role-based student lead management system for education agencies	Flask, MySQL, Docker
-Lottery Probability Calculator	Mathematical probability calculator with interactive UI	Python, Streamlit
-Blinkit Sales Analysis	Sales insights & dashboards for business analysis	Power BI, Excel
-Feature-Controlled Assistant	Voice-controlled assistant with cloud & computer vision features	Python, AWS, OpenCV
-🎯 What I’m Focusing On Next
-
-Building CI/CD pipelines using Jenkins
-
-Deploying containerized apps on AWS
-
-Learning Terraform & Infrastructure as Code
-
-Improving system design & monitoring basics
-
-🔗 Connect With Me
-
-Let’s connect and grow together:
-
-
+⭐ Thanks for visiting my GitHub profile.  
+Feel free to explore my repositories and connect!
